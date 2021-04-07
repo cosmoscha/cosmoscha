@@ -1,4 +1,8 @@
-### Hi there 👋
+### I am a software developer with a background in business. For me, the definition of a perfect software application is one that executes a given task as efficiently and cleanly as possible. In the modern age, software developers are the architects who craft the tools and platforms on which business interacts either B2B or B2P. I am that architect who can craft the code that runs your company.
+
+On the front-end, I am proficient in JavaScript, React, and Redux to build the functionality for user interfaces. I am familiar with libraries such as Tailwind and Bootstrap as well as template engines of Pug and Jinja, and of course, vanilla HTML5 and CSS3 to add style to the application. On the back-end, I use SQL languages such as PostgreSQL, MySQL, SQLAlchemy to manage database relations. Python and Flask are my languages of choice when managing server-side code.
+
+More than anything, I believe the most important trait for any software developer is the ability to learn new skills. I am constantly looking for opportunities to prove my problem-solving abilities as well as delve into new methods and technologies. In my spare time, I enjoy the horticulture of carnivorous plants and nature conservation.
 
 <!--
 **cosmoscha/cosmoscha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
